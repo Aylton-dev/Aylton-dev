@@ -28,7 +28,7 @@ order-service: criação e consulta de pedidos, validando o estoque no catálogo
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot"> <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Cloud"> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" alt="Spring Security"> <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT"> <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" alt="Maven">
 
-<a href="https://github.com/Aylton-dev/RiotAPIAnalytics">Riot API Analytics</a></h3>
+<a href="https://github.com/Aylton-dev/RiotAPI_Analytics">Riot API Analytics</a></h3>
 
 Coleta partidas ranqueadas pela Riot Games API e calcula a taxa de vitória por item, entregando os resultados em uma API REST.
 
