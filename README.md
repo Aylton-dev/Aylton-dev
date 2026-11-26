@@ -14,6 +14,7 @@ Conclusão prevista: dezembro de 2027
 🛠️ Tecnologias
 <p align="center"> <b>Foco principal</b><br><br> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> </p> <p align="center"> <b>Conhecimentos complementares</b><br><br> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"> </p>
 🚀 Projetos em destaque
+
 🛒 Ecommerce-Microservices
 
 API de e-commerce construída com arquitetura de microsserviços, em que cada serviço é independente e se comunica por um ponto único de entrada.
