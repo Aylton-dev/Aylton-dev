@@ -1,6 +1,10 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&letterSpacing=-1px&duration=6000&pause=1000&color=210AFFEB&background=FF1DE900&center=true&vCenter=true&width=450&height=60&lines=Hi+I'm+Aylton+Oliveira;ADS+Student&groups=1%2C1" alt="Typing SVG" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=32&letterSpacing=-1px&duration=6000&pause=1000&color=210AFF&background=FF1DE900&center=true&vCenter=true&width=800&height=80&lines=Hi+I'm+Aylton+Oliveira;ADS+Student&groups=1%2C1" alt="Hi, I'm Aylton Oliveira. ADS Student">
+</p>
 
-<img src="assets/tenor.gif" alt="Animação de pixel art" width="600">
+<p align="center">
+  <img src="assets/tenor.gif" alt="Animação de pixel art" width="800">
+</p>
 
 🛠️ Tecnologias
 <div align="center"> <table> <tr> <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="56" height="56"><br> <sub><b>Java</b></sub> </td> <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="56" height="56"><br> <sub><b>Spring</b></sub> </td> <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="56" height="56"><br> <sub><b>Python</b></sub> </td> <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="56" height="56"><br> <sub><b>FastAPI</b></sub> </td> <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="56" height="56"><br> <sub><b>PostgreSQL</b></sub> </td> </tr> </table> </div>
