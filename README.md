@@ -26,8 +26,6 @@ auth-service: usuários, perfis (roles) e login com JWT e Spring Security
 catalog-service: CRUD de categorias e produtos, com verificação de estoque
 order-service: criação e consulta de pedidos, validando o estoque no catálogo via OpenFeign
 
-<img src="https://img.shields.io/badge/Pronto-2EA44F?style=flat-square" alt="Pronto"> autenticação JWT validada no gateway e nos serviços, token repassado entre serviços, CRUD de catálogo e criação de pedidos<br> <img src="https://img.shields.io/badge/Em_andamento-DBAB09?style=flat-square" alt="Em andamento"> migração do H2 para PostgreSQL, baixa automática de estoque, documentação com Swagger e testes
-
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot"> <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Cloud"> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" alt="Spring Security"> <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT"> <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" alt="Maven">
 
 <a href="https://github.com/Aylton-dev/RiotAPIAnalytics">Riot API Analytics</a></h3>
